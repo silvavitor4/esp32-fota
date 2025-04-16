@@ -35,8 +35,8 @@ while True:
             update.atualizar_e_reiniciar(versao_remota, URL_BASE)
         else:
             print("✅ Já está atualizado.")
-
- print("✅ NEW VERSION FILE")
+            
+    print("✅ NEW VERSION FILE")
 
     time.sleep(1)
 
