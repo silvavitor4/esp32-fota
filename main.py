@@ -36,7 +36,7 @@ while True:
         else:
             print("✅ Já está atualizado.")
 
- print("✅ NEW VERSION.")
+ print("✅ NEW VERSION FILE")
 
     time.sleep(1)
 
